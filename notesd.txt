@@ -1,0 +1,28 @@
+	dream\bkgnds\family.wmf
+	dream\apps\address.wmf
+	dream\apps\mail.wmf
+	dream\apps\list.wmf
+	dream\passages\safe.wmf
+	dream\passages\door.wmf
+	dream\computer\disk.wmf
+	dream\toys\drum.wmf
+	dream\oddends\fridge.wmf
+	dream\toys\guitar.wmf
+	dream\lamps\lamp.wmf
+	dream\books\newspapr.wmf
+	dream\walldecr\note.wmf
+	dream\oddends\phone.wmf
+	dream\photos\picture.wmf
+	dream\plants\plant.wmf
+	dream\oddends\radio.wmf
+	dream\oddends\stove.wmf
+	dream\tables\table.wmf
+	dream\walldecr\thingy.wmf
+	dream\clocks\triangle.wmf
+	dream\pets\wizard.wmf
+	dream\oddends\sign.wmf
+NEW:
+Test Object	\dream\walldecr\mytest.wmf
+
+	
+	

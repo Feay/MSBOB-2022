@@ -1,0 +1,73 @@
+gazoo program is missing so...lets use this as
+away to insert assets with out running over
+the stuff all ready there.
+
+
+all gazzo in pictureAttributes use
+program/internal atrib: picid example: commonname:
+gazoo			138		926
+mailroom		111		922
+
+castle\decor	134/37	929	dragon	dragon ani
+retro\decor		134/143	1047 kitty cat		pets retro 
+retro\decor		29/143	1049 ladder			odds and ends retro 
+retro\decor		29/143	1053 pencil cup		odds and ends retro 
+
+castle=		37
+Postmodern	39
+Contemporary40
+retro=		143				2nd most objects
+Gateway		147				has the least
+Abstract	300000
+Sketch		300001
+Haunted		300002
+Pastoral=	300003			has the most objects
+space=		300005
+Dream		146   dream seems to be unused, has ivalid and -1 there ae 22~ referacences in attribbutes table but NO assets listed
+
+shell:
+views		70
+reddoor/knock	22
+room select		21 NOT the "view" /room overlay  
+Door			5
+app				7 ? adress 
+app				15 ? mail external?
+clocks?			9
+
+program objects:
+program boxs	23
+
+
+
+DECOR:
+Books			24
+Chairs			25
+Computers		26
+Odds & Ends		29
+Photos			30
+Plants			32
+Tables			33
+Furniture		126
+Houseware		127
+Boxes			128
+Tools			129
+cars			130
+Wall Decoration	131
+Lamps			132
+Fire			133
+Pets			134
+Toys			144
+Holiday			300004
+
+***
+editing magic:
+table pict storage and flag 2 for statics or 4 for animations, animations should go into home folde as the others.
+table pic attribs table, must add it twice, once for catigory to show up and again for style type
+***
+had to edit utopia.mdb to add back dream room as a selectible room in the rooms table
+find family room type dream style to add the hidden The Original Family Room, set flag to 1, it was 0 the only 0 on the list
+...
+
+analog clock flag 65536 draws over the texture =) make a clock?
+
+
