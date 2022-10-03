@@ -1,3 +1,5 @@
+github requiers me to add manually every folder as a file then add every file, i don't have the will to do all that jazz for 22 folders, just use the release version
+
 INTRO: Use the backup function in bob then rename you copy of utopia and upic in the install directory aka the utopia dir, and copy the new altered ones i have supplied. =) 
 Use the backup restore function in bob to add your rooms and accounts back. 
 
