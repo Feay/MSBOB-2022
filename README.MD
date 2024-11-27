@@ -1,3 +1,27 @@
+DOWNLOAD THE RELEASE IT IS SELF EXTRACTING ZIP FILE MADE WITH 7zp!
+IT HAS THE FEW HUNDEREDS OF FILES
+IT IS suggested TO HAVE AN ALREADY WORKING MSBOB BEFORE EXTACTION
+IT IS A good idea TO BACK UP YOUR UTOPIA>MBD DATABASE FILE
+IT IS SUGGESTED IF YOU HAVE MADE ROOMS ALREADY IN BOB TO USE THE BACK UP TOOL THAT BOB PROVIDES FOR THAT INFO NORMALLY LIVES IN THE DATABASE THAT WILL BE SOON DIFFERENT
+AFTER UNZIPPING THE FILES IN TO THE MSBOB FOLDER YOU CAN USE THE BACKUP TOOL TO RESTORE YOUR PROFILE
+ALL FILES AND FOLDERS ARE MENT TO BE IN THE MSBOB FOLDER, NOT THE HOME FOLDER INSIDE THE MSBOB FOLDER.....
+MAKE SURE THIS IS THE ONLY VERSION OF THE DATA BASE FILES...
+ALL ASSESTS ARE LOOSE FILES NOW IN FOLDERS THAT REPRESENT THE STRUCTOR FOUND IN THE ORGONAL DATA BASE,
+THE DATA BASE HAS BEEN UP DATED WITH FLAGS TO TELL BOB (AND FREINDS) TO LOOK FOR THESE ASSETS IN FOLDERS ON THAT PATH INDEAD OF STORED IN THE DATA BASE. 
+example, my it cursed us, biden in msbob end of an era
+https://youtu.be/O0f0Ld_a-m0?si=dxX1e2F19xzUESTF
+
+YOU DATA BASE WILL BE AUTO UPDATED WITH PREVIEWS OF ASSESTS WHEN EVER THEY ARE VIEWED FOR THE FRIST TIME ONLY ONCE!
+THIS IS HOW BOB WORKS, IF YOU LOAD AN ASSET INTO A THE RIGHT FOLDERS WITH THE RIGHT NAMES THEY WILL LOOK ALL WHITE BLANK UNTIL YOU PLACE THEM......THIS ALSO CAUSES THE DATABASE TO GROW FYI.
+
+SEE BELOW FOR MORE DETAILS! ALSO FINALE NOTE I HAVE SCREEN SHOTS OF THE DATABASE, I X OUT THE LAST ENTERYS ABOUT NEW ROOMS, I LEFT THEM ADDED AND THOUGHT THEY DIDNT WORK CAUSE THEY WONT SHOW UP AT FRIST, UNLESS YOU GO THRU THE ADD ROOM DIALOG INSTEAD OF JUST CHANGE ROOM.....ALL BOB'S IMAGES ARE OLD VERSION OF WMF, USE INKSKAPE TO ADD ASSETS....THERE IS MORE INFO IN THE README THAN THIS FILE ALONE
+
+YOU MAY ADD EXTRA ASSETS, 5 OF EACH KIND IF I RECALL, EACH JUST NUMBERED AS NAMES OF THE WMF FILES IN EACH FOLDER, SO THATS A TON OF ASSETS YOU CAN ADD WITH OUT OVERWRITING YOUR ASSET. THIS INCLUDES 5 OR 7 NEW ROOM TYPES
+
+THERE IS A HIDDEN ROOM TYPE THAT WAS NOT USEABLE NAMED DREAM, HANCE THE DREAM  ASPECT OF THIS MOD.....
+THE DREAM ROOM IS REALLY SPOOKY SINCE MAT GATE'S GF WORKED ON THE PROJECT AND IT HAS A MAN WITH A BOB SMILEY FACE.
+INSERT SPOOKYPASTA
+
 github requiers me to add manually every folder as a file then add every file, i don't have the will to do all that jazz for 22 folders, just use the release version
 
 INTRO: Use the backup function in bob then rename you copy of utopia and upic in the install directory aka the utopia dir, and copy the new altered ones i have supplied. =) 
@@ -11,12 +35,16 @@ see list#.png for what is named what that has been added.
 
 PREVIEWS: GLITCHES ARE A FEATURE:: Utopia.dll adds previews to upic.mdb to all items that are frist seen, if you change an texture and the preview is the same this is why!  No big deal.
 
-ROOM: \dream\bkgnds\family.wmf The background  or room, not the same as view or outside, if invalid will cause not able to add stuff crash. 
+ROOM: example: \dream\bkgnds\family.wmf The background  or  THE room, not the same as VIEW or outside, if invalid will cause not able to add stuff crash! I SUGGEST MAKENG A COPY AND EDITING A BACKGROUND
 
 PATHS: utopia, or bob uses a path relative to the "install" directory, this is called the utopia dir. HOWEVER unless this dir is in the envirment varible path, the apps like home.exe it self cannot trasverse it's path upward to see utopia.dll and such.
 two solutions exist, add utopia to the path, or place each item each app complains about into it's folder running them from windows until they say they need bob. the two main databases in the install dir take precidances to home.exe.
 
 ADDING: see formats: wmf & mdb. USE INKSCAPE!!!! I use an already existing wmf as a template, you can drag an drop a image into inkscape and adjust it to fit the same size, all things are resizable in Utopia, except of course room background and views aka outside
+FYI INSCAKE CAN ADD BMP IMAGES TO WMF, thus YOU CAN HAVE PICS SO IT DOESN'T HAVE TO BE 100% VECTOR GRAPHICS, BOB ONLY DOES 256 COLORS fyi...
+
+the bob sounds can actually be found in good quality in WIN98 iso disk if you uncompress all the CABS, these sounds never get installed
+weird???
 
 FORMATS: MDB: Upic.mdb and Utopia.mdb are the main databases that store everything.
 version msaccess 1.1 jet format, you will need msaccess 1.1 iit runs on win3x, can only install in win3x. After installed you can use it from winxp as i do (xp's ntvdm handles win16 apps)
